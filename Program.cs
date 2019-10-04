@@ -23,9 +23,6 @@ namespace RandomNumbers
                 Console.WriteLine($"Numbers List contains {i}");
             } else
             {Console.WriteLine($"Numbers List does not contain {i}");};
-            
-            
-            // Console.WriteLine(i);
             }
         }
     }
